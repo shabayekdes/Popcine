@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_width_photo">w500</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+</resources>

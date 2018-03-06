@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Popcine</string>
+    <string name="error_message">
+        An error has occurred. Please try again by clicking REFRESH
+    </string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="title">Title :</string>
+    <string name="overview">Overview</string>
+    <string name="release_date">Release date</string>
+    <string name="screen_width_photo">w342</string>
+    <string name="genres">Genres :</string>
+    <string name="vote_average">Vote average</string>
+
+    <array name="sort_types">
+        <item>@string/popular</item>
+        <item>@string/top_rated</item>
+    </array>
+</resources>
