@@ -6,7 +6,7 @@
 The purpose of this project was to built an app that helps users discover popular and top rated movies on the web.
 It fetches themoviedb.org API to display the movies data, that way the content provided is always up-to-date and relevant.</p>
 <p>This app helps users discover popular and recent movies. </p><br>
-<p>For Popular Movies stage 2 project click <a href="https://github.com/henriquenfaria/popular-movies-stage-2">HERE</a>.</p><br><br>
+<p>For Popular Movies stage 2 project click <a href="https://github.com/shabayekdes/Popcine-stage-2">HERE</a>.</p><br><br>
 
 <h2>Stage 1 Features</h2>
 
